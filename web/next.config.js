@@ -1,4 +1,7 @@
 const nextConfig = {
-    // https://github.com/g0v/language-portal
+    reactStrictMode: true,
     basePath: "/language-portal",
-}
+    trailingSlash: true,
+};
+
+module.exports = nextConfig;

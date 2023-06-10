@@ -9,7 +9,7 @@ Allow communities to contribute to the translation glossary through a search eng
 ## 貢獻者們／Contributors
 
 * [RSChiang](https://poren.tw)
-* [SigirlJin](https://github.com/sigridjineth)
+* [Sigirid Jin](https://github.com/sigridjineth)
 * g0v friends who participated in the discussion!
 
 ## 授權／License
