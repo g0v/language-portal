@@ -1,0 +1,68 @@
+/* Styling for the tab content */
+
+.tab-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+
+/* Styling for the form select element */
+
+.form-select {
+    width: 200px;
+    height: 40px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+
+/* Styling for the input field in SearchForm component */
+
+.d-flex input[type="search"] {
+    width: 350px;
+    height: 40px;
+    padding: 5px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+
+/* Styling for the search button in SearchForm component */
+
+.btn-outline-success {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    margin-left: 10px;
+    height: 45px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.btn-outline-success:hover {
+    background-color: #218838;
+    color: #fff;
+}
+
+.search-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.search-filter-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.search-form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
